@@ -1,11 +1,6 @@
 import React from "react";
-import Home from "./Home";
 
 class Busca extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   limparHashtag() {}
 
 

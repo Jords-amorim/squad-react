@@ -1,9 +1,5 @@
 import React from "react";
 
-//Componentes
-import GaleriaImagens from "./Galeria-img";
-import GaleriaTweets from "./Galeria-tweets";
-
 export default class NadaEncontrado extends React.Component {
   render() {
     return (
